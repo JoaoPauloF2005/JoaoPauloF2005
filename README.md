@@ -1,3 +1,5 @@
 # Olá, me chamo João Paulo Franchini de Freitas ! 
 
-ᴀᴛᴜᴀʟᴍᴇɴᴛᴇ ᴇsᴛᴜᴅᴏ ɴᴀ ᴇᴛᴇᴄ ᴊᴏᴀǫᴜɪᴍ ғᴇʀʀᴇɪʀᴀ ᴅᴏ ᴀᴍᴀʀᴀʟ - ᴅᴇsᴇɴᴠᴏʟᴠɪᴍᴇɴᴛᴏ ᴅᴇ sɪsᴛᴇᴍᴀs - 3º ᴀɴᴏ
+-> Atualmente estudo Desenvolvimento de Sistemas na ETEC Joaquim Ferreira do Amaral - 3ºAno
+-> Tenho 17 anos
+-> Moro na cidade de Itapui-SP
