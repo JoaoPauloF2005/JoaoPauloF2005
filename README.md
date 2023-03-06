@@ -1,3 +1,3 @@
 # Olá, me chamo João Paulo Franchini de Freitas ! 
 
-# Atualmente estudo na ETEC JOAQUIM FERREIRA DO AMARAL - Desenvolvimento de Sistemas - 3º Ano
+ᴀᴛᴜᴀʟᴍᴇɴᴛᴇ ᴇsᴛᴜᴅᴏ ɴᴀ ᴇᴛᴇᴄ ᴊᴏᴀǫᴜɪᴍ ғᴇʀʀᴇɪʀᴀ ᴅᴏ ᴀᴍᴀʀᴀʟ - ᴅᴇsᴇɴᴠᴏʟᴠɪᴍᴇɴᴛᴏ ᴅᴇ sɪsᴛᴇᴍᴀs - 3º ᴀɴᴏ
