@@ -3,7 +3,6 @@
 
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/18383621/eduardo-frasson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="eduardo-frasson" height="30" width="40" /></a>
 <a href="https://instagram.com/joaopaulofrdefreitas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edu.frasson" height="30" width="40" /></a>
 </p>
 
