@@ -1,6 +1,4 @@
-<h1 align="center">Olá, meu nome é João Paulo Franchini de Freitas</h1>
-<h3 align="center">Estou no 3° ano do curso de Desenvolvimento de Sistemas na ETEC Joaquim Ferreira do Amaral</h3>
-
+<p align="left">Atualmente cursando o 3° Ano Etim Desenvolvimento de Sistema -- Etec Joaquim Ferreira do Amaral, Jau-SP</p>
 <h3 align="left">Social Media:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-franchini-de-freitas-94a449274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joaopaulofrdefreitas" height="30" width="40" /></a>
