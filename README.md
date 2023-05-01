@@ -2,7 +2,6 @@
 <h3 align="left">Social Media:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-franchini-de-freitas-94a449274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joaopaulofrdefreitas" height="30" width="40" /></a>
-<a href="https://instagram.com/joaopaulofrdefreitas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joaopaulofrdefreitas" height="30" width="40" /></a>
 </p>
 
 ### Language Skills:
